@@ -48,14 +48,49 @@ width: 60%;
 height: 250px;
 border-radius: 20px;
 }
+.chef-width{
+    width: 30%;
+    padding-left:8%;
+    
+}
+.chef-part{
+    background-color: lightslategray;
+}
+.chef-width img{
+    width: 60%;
+    height: 250px;
+    border-radius: 150px;
+    box-shadow:15px 20px 20px darkolivegreen;
+}
+.chef-width h1{
+    font-size: 40px;
+    color: linen;
+    margin-left: 2%;
+}
+.chef-width h2{
+    font-size: 30px;
+    color: mistyrose;
+    margin-left: 4%;
+}
+.chef-width p{
+    margin-left:4%;
+
+}
 .box{
     text-align: center;
     margin-bottom: 15px;
     margin-top: 25px;
 }
+.our-chef{
+    text-align: center;
+    font-size: 40px;
+    margin-top: 40px;
+    margin-bottom: 7%;
+    color: papayawhip;
+}
 .Bro{
 width: 30%;
-padding-left: 8%;
+padding-left: 12%;
 }
 .o-color{
     color: darkorange;
